@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_home" android:title="@string/text_home" android:icon="@drawable/ic_home_black_24dp"/>
+    <item android:id="@+id/action_medication" android:title="@string/text_medication" android:icon="@drawable/ic_dashboard_black_24dp"/>
+    <item android:id="@+id/action_report" android:title="@string/text_report" android:icon="@drawable/ic_assignment_black_24dp"/>
+    <item android:id="@+id/action_profile" android:title="@string/text_profile" android:icon="@drawable/ic_account_circle_black_24dp"/>
+</menu>
